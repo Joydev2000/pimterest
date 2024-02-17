@@ -151,6 +151,9 @@ img:hover {
     .content {
       columns: 2;
     }
+    .links{
+      display: none;
+    }
   }
   
   @media (max-width: 480px) {
